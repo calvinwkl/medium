@@ -1,6 +1,6 @@
-## Intro
+# Medium
 
-This will be an archive of my medium stories. You can visit [Medium](https://medium.com/@calw9) for watching them in there.
+This repository is an archive of my medium stories. You can visit [Medium](https://medium.com/@calw9) for watching them in there.
 	
 ## Table of Contents
 
@@ -12,10 +12,19 @@ This will be an archive of my medium stories. You can visit [Medium](https://med
 - [Small deeds are good deeds — Start of my Dev life blogging](https://medium.com/@calw9/small-deeds-are-good-deeds-start-of-my-dev-life-blogging-ffba1f1b0b30)
 
 
-## Contact Me
 
-You can find me on:
+## Keywords
+
+Apple, iPhone, iPad, iOS, Swift, Objective-C, Xcode, Tutorial, React, React Native. node.js
+
+## Author
+
+Calvin Wong
+* [Linkedin](https://www.linkedin.com/in/calw9)
+* [Medium](https://medium.com/@calw9)
+* [Stack Overflow](https://stackoverflow.com/users/9749232/calvin)
+
+
+## Donation
 	
-- [Linkedin](https://www.linkedin.com/in/calw9)
-- [Medium](https://medium.com/@calw9)
-- [Stack Overflow](https://stackoverflow.com/users/9749232/calvin)
+
