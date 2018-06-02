@@ -26,5 +26,5 @@ Calvin Wong
 
 ## Donation
 	
-![Paypal](https://github.com/calw9/medium/blob/master/assets/paypal.png)
+[![Paypal](https://github.com/calw9/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
 
