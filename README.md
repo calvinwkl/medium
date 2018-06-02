@@ -1,6 +1,6 @@
 # Medium
 
-This repository is an archive of my medium stories. You can visit [Medium](https://medium.com/@calw9) for watching them in there.
+This repository is an archive of my [**Medium**](https://medium.com/@calw9) stories.
 	
 ## Table of Contents
 
@@ -18,7 +18,9 @@ Apple, iPhone, iPad, iOS, Swift, Objective-C, Xcode, Tutorial, React, React Nati
 
 ## Author
 
-### Calvin Wong (@calw9)
+### 🇭🇰 Calvin Wong (@calw9)
+
+Messages are welcome. You can find me on below platforms.
 
 * [Medium](https://medium.com/@calw9)
 * [Github](https://github.com/calw9)
@@ -27,6 +29,8 @@ Apple, iPhone, iPad, iOS, Swift, Objective-C, Xcode, Tutorial, React, React Nati
 
 
 ## Donation
+
+Donations are greatly appreciated. It certainly will keep me going. :simple_smile:
 	
 [![Paypal](https://github.com/calw9/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
 
