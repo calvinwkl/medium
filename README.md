@@ -24,13 +24,13 @@ Messages are welcome. You can find me on below platforms.
 
 * [Medium](https://medium.com/@calw9)
 * [Github](https://github.com/calw9)
-* [Stack Overflow](https://stackoverflow.com/users/9749232)
+* [Stack Overflow]()
 * [Linkedin](https://www.linkedin.com/in/calw9)
 
 
 ## Donation
 
-Donations are greatly appreciated. It certainly will keep me going. :simple_smile:
+Donations are greatly appreciated. It certainly will keep me going.
 	
 [![Paypal](https://github.com/calw9/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
 
