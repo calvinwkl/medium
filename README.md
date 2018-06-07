@@ -6,6 +6,8 @@ This repository is an archive of my [**Medium**](https://medium.com/@calw9) stor
 
 ### 2018
 
+- [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
+
 - [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/@calw9/xcode-starter-guide-1-learn-how-to-use-xcode-7b852a4619ba)
 
 - [I have an idea and want to make an app. How do I start? - A list of answers to this question.](https://medium.com/@calw9/i-have-an-idea-and-want-to-make-an-app-how-do-i-start-a-list-of-answers-to-this-question-f82b63fb1f87)
