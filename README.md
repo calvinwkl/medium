@@ -6,6 +6,8 @@ This repository is an archive of my [Medium](https://medium.com/@calw9) stories.
 
 ### 2018
 
+- [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/@calw9/xcode-starter-guide-3-common-practices-to-start-an-ios-app-with-cocoapods-e99ebdc26585)
+
 - [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
 
 - [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/@calw9/xcode-starter-guide-1-learn-how-to-use-xcode-7b852a4619ba)
