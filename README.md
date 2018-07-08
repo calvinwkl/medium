@@ -6,6 +6,8 @@ This repository is an archive of my [Medium](https://medium.com/@calw9) stories.
 
 ### 2018
 
+- [Branding Yourself Like A Pro: Host Your Custom Domain Name with Amazon and Google Services](https://medium.com/@calw9/branding-yourself-like-a-pro-host-your-custom-domain-name-with-amazon-and-google-services-4dcfafb0cf35)
+
 - [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/@calw9/xcode-starter-guide-3-common-practices-to-start-an-ios-app-with-cocoapods-e99ebdc26585)
 
 - [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
@@ -20,11 +22,11 @@ This repository is an archive of my [Medium](https://medium.com/@calw9) stories.
 
 ## Keywords
 
-Apple, iPhone, iPad, iOS, Swift, Objective-C, Xcode, Tutorial, React, React Native. node.js
+Apple, iPhone, iPad, iOS, Swift, Objective-C, Xcode, Tutorial, React, React Native, node.js, Amazon Web Services Route 53, Google Firebase, Google Firebase Hosting
 
 ## Author
 
-### 🇭🇰 Calvin Wong (@calw9)
+### 🇭🇰 Calvin Wong
 
 Messages are welcome. You can find me on below platforms.
 
