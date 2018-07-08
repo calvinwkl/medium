@@ -31,7 +31,7 @@ Messages are welcome. You can find me on below platforms.
 * [Medium](https://medium.com/@calvinw)
 * [Github](https://github.com/calw9)
 * [Stack Overflow](https://stackoverflow.com/users/9903723/calvin)
-* [Linkedin](https://www.linkedin.com/in/calw9)
+* [Linkedin](https://www.linkedin.com/in/calvinwkl)
 
 
 ## Donation
