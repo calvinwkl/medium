@@ -6,6 +6,8 @@ This repository is an archive of my [Medium](https://medium.com/@calw9) stories.
 
 ### 2018
 
+- [Using URLSession to retrieve JSON in Swift (1) - Getting Started](https://medium.com/p/d929f3a49c67/)
+
 - [Branding Yourself Like A Pro: Host Your Custom Domain Name with Amazon and Google Services](https://medium.com/p/4dcfafb0cf35)
 
 - [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/p/e99ebdc26585)
