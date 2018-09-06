@@ -1,10 +1,12 @@
 # Medium
 
-This repository is an archive of my [Medium](https://medium.com/@calw9) stories.
+This repository is an archive of my [Medium](https://medium.com/@calvinw) stories.
 	
 ## Table of Contents
 
 ### 2018
+
+- [Using URLSession to retrieve JSON in Swift (2) - With Unsplash API](https://medium.com/p/4b9fee472f08/)
 
 - [Using URLSession to retrieve JSON in Swift (1) - Getting Started](https://medium.com/p/d929f3a49c67/)
 
@@ -40,5 +42,5 @@ Messages are welcome. You can find me on below platforms.
 
 Donations are greatly appreciated. It certainly will keep me going.
 	
-[![Paypal](https://github.com/calw9/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
+[![Paypal](https://github.com/calvinwkl/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
 
