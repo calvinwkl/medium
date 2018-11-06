@@ -18,8 +18,6 @@ This repository is an archive of my [Medium](https://medium.com/@calvinw) storie
 
 - [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/p/7b852a4619ba)
 
-- [I have an idea and want to make an app. How do I start?](https://medium.com/p/f82b63fb1f87)
-
 - [Small deeds are good deeds — start of my dev blog](https://medium.com/p/ffba1f1b0b30)
 
 ## Keywords
@@ -37,10 +35,4 @@ Messages are welcome. You can find me on below platforms.
 * [Stack Overflow](https://stackoverflow.com/users/9903723/calvin)
 * [Linkedin](https://www.linkedin.com/in/calvinwkl)
 
-
-## Donation
-
-Donations are greatly appreciated. It certainly will keep me going.
-	
-[![Paypal](https://github.com/calvinwkl/medium/blob/master/assets/paypal.png)](https://www.paypal.me/calw9)
 
