@@ -1,14 +1,16 @@
 # Medium
 
-This repository is an archive of my [Medium](https://medium.com/@calvinw) stories.
+This repository is a collection of my [Medium](https://medium.com/@calvinw) stories.
 	
 ## Table of Contents
 
 ### 2018
 
-- [Using URLSession to retrieve JSON in Swift (2) - With Unsplash API](https://medium.com/p/4b9fee472f08/)
+- [Using UITableView in Swift (1) — The Basics](https://medium.com/p/bdc0048c2a94)
 
-- [Using URLSession to retrieve JSON in Swift (1) - Getting Started](https://medium.com/p/d929f3a49c67/)
+- [Using URLSession to retrieve JSON in Swift (2) - With Unsplash API](https://medium.com/p/4b9fee472f08)
+
+- [Using URLSession to retrieve JSON in Swift (1) - Getting Started](https://medium.com/p/d929f3a49c67)
 
 - [Branding Yourself Like A Pro: Host Your Custom Domain Name with Amazon and Google Services](https://medium.com/p/4dcfafb0cf35)
 
@@ -17,8 +19,6 @@ This repository is an archive of my [Medium](https://medium.com/@calvinw) storie
 - [Xcode Starter Guide (2) - Run Your First App](https://medium.com/p/8317520613fc)
 
 - [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/p/7b852a4619ba)
-
-- [Small deeds are good deeds — start of my dev blog](https://medium.com/p/ffba1f1b0b30)
 
 ## Keywords
 
