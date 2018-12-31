@@ -6,6 +6,8 @@ This repository is a collection of my [Medium](https://medium.com/@calvinw) stor
 
 ### 2018
 
+- [Using UITableView in Swift (2) - with RxSwift](https://medium.com/p/3e6dac456b92)
+
 - [Using UITableView in Swift (1) — The Basics](https://medium.com/p/bdc0048c2a94)
 
 - [Using URLSession to retrieve JSON in Swift (2) - With Unsplash API](https://medium.com/p/4b9fee472f08)
