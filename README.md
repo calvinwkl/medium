@@ -4,6 +4,10 @@ This repository is a collection of my [Medium](https://medium.com/@calvinw) stor
 	
 ## Table of Contents
 
+### 2019
+
+- [Mobile Security Measures — An Overview on iOS and Android](https://medium.com/p/7466c82843bd)
+
 ### 2018
 
 - [Using UITableView in Swift (2) - with RxSwift](https://medium.com/p/3e6dac456b92)
