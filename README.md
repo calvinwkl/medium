@@ -6,7 +6,7 @@ This repository is a collection of my [Medium](https://medium.com/@calvinw) stor
 
 ### 2020
 
-- [Using Combine for URLSession in Swift (1) - replacing RxSwift](https://medium.com/@calvinw/using-combine-for-urlsession-in-swift-1-replacing-rxswift-2cd022f57121)
+- [Using Combine for URLSession in Swift - replacing RxSwift](https://medium.com/@calvinw/using-combine-for-urlsession-in-swift-1-replacing-rxswift-2cd022f57121)
 
 ### 2019
 
